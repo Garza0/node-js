@@ -1,0 +1,26 @@
+{
+  "name": "node-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garza0/node-js.git"
+  },
+  "author": "garza0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garza0/node-js/issues"
+  },
+  "homepage": "https://github.com/Garza0/node-js#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
